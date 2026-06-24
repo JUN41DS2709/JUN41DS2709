@@ -13,7 +13,7 @@
 
 ## Hi there 👋
 
-I'm **Junaid**, also known as `JUN41D` — a final-year engineering student who'd rather be breaking into systems (with permission) than memorizing them out of a textbook. My world runs on offensive security: poking at web apps, chasing bugs for bounty, and slowly turning curiosity into a career in penetration testing. Every lab broken, every writeup read, and every box rooted is one step closer to the security professional I'm building myself into.
+I'm  `JUN41D` — a final-year engineering student who'd rather be breaking into systems (with permission) than memorizing them out of a textbook. My world runs on offensive security: poking at web apps, chasing bugs for bounty, and slowly turning curiosity into a career in penetration testing. Every lab broken, every writeup read, and every box rooted is one step closer to the security professional I'm building myself into.
 
 <details>
   <summary>More about me</summary>
