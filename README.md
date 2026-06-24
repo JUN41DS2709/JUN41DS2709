@@ -1,7 +1,6 @@
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/70111d67-940b-47de-828b-dcab946a36da" width="100%" ></video>
+  <img src="hero.gif" width="100%" height="auto"/>
 </p>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF073A&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+JUN41D+<3;CCybersecurity+Practitioner;Hacker;Security+Researcher;Pentester;Welcome+to+my+profile!" alt="Title"></img>
