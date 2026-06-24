@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF073A&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+JUN41D;Cybersecurity+Professional;Hacker;Security+Researcher;Pentester;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF073A&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+JUN41D;CCybersecurity+Professional;Hacker;Security+Researcher;Pentester;Welcome+to+my+profile!" alt="Title"></img>
   </a>
 </div>
 
