@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero.gif" width="100%" height="auto"/>
+  <video src="https://github.com/user-attachments/assets/70111d67-940b-47de-828b-dcab946a36da" width="100%" autoplay loop muted playsinline></video>
 </p>
 
 <div align="center">
