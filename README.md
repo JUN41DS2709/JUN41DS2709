@@ -99,7 +99,7 @@ I'm **Junaid**, also known as `JUN41D` — a final-year engineering student who'
 </p>
 
 <p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
+  <b><i>"Privacy is a Myth."</i></b>
 </p>
 <p align="center">
 <a>🌱</a>
