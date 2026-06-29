@@ -10,7 +10,7 @@
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
-## Hi there 👋
+## Hey there !!
 
 I'm  `JUN41D` — a final-year engineering student who'd rather be breaking into systems (with permission) than memorizing them out of a textbook. My world runs on offensive security: poking at web apps, chasing bugs for bounty, and slowly turning curiosity into a career in penetration testing. Every lab broken, every writeup read, and every box rooted is one step closer to the security professional I'm building myself into.
 
