@@ -75,7 +75,9 @@ I'm  `JUN41D` — a final-year engineering student who'd rather be breaking into
 ![C](https://progress-bar.xyz/20/?title=C&width=350&color=FF073A&suffix=%25)
 
 *Other languages (JavaScript, HTML/CSS, Bash, etc.) are used occasionally.*
-
+---
+### CTF - Platforms 
+![tryhackme stats](https://raw.githubusercontent.com/JUN41D/JUN41D/master/assets/thm_propic.png)
 ---
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
