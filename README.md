@@ -78,7 +78,7 @@ I'm  `JUN41D` — a final-year engineering student who'd rather be breaking into
 <!-- Replace GITHUB_USERNAME below with your actual GitHub username -->
   [![JUN41D's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUN41DS2709&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=FF073A&icon_color=FF073A&text_color=ffffff&custom_title=%20)](https://github.com/JUN41DS2709/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=JUN41DS2709&theme=dark&card_width=450&bg_color=00000000&hide_border=true&ring=FF073A&fire=FF073A&currStreakLabel=FF073A)](https://git.io/streak-stats)
- <p align="left"><a href="https://github.com/JUN41DS2709/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUN41DS2709&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=FF073A&text_color=ffffff" width="450"" /></a></p>
+ <p align="left"><a href="https://github.com/JUN41DS2709/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUN41DS2709&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=FF073A&text_color=ffffff" width="450" /></a></p>
 
 <br><br>
 
