@@ -69,12 +69,6 @@ I'm  `JUN41D` — a final-year engineering student who'd rather be breaking into
   </div>
 </div>
 
-### 💻 Most Used Languages
-
-![Python](https://progress-bar.xyz/80/?title=Python&width=350&color=FF073A&suffix=%25)
-![C](https://progress-bar.xyz/20/?title=C&width=350&color=FF073A&suffix=%25)
-
-*Other languages (JavaScript, HTML/CSS, Bash, etc.) are used occasionally.*
 ---
 
 
