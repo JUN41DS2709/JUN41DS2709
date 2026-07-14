@@ -66,6 +66,17 @@ I'm  `JUN41D` — a final-year engineering student who'd rather be breaking into
       <img src="https://img.shields.io/badge/HTML5-FF073A?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-FF073A?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
       <img src="https://img.shields.io/badge/VS_Code-FF073A?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Nmap-FF073A?style=for-the-badge&logo=nmap&color=000000" alt="Nmap" />
+    <img src="https://img.shields.io/badge/Shodan-FF073A?style=for-the-badge&logo=shodan&color=000000" alt="Shodan" />
+    <img src="https://img.shields.io/badge/TryHackMe-FF073A?style=for-the-badge&logo=tryhackme&color=000000" alt="TryHackMe" />
+<img src="https://img.shields.io/badge/Hack_The_Box-FF073A?style=for-the-badge&logo=hackthebox&color=000000" alt="Hack The Box" />
+<img src="https://img.shields.io/badge/PortSwigger-FF073A?style=for-the-badge&logo=burpsuite&color=000000" alt="PortSwigger" />
+<img src="https://img.shields.io/badge/CTF_Player-FF073A?style=for-the-badge&logo=ctfd&color=000000" alt="CTF Player" />
+    <img src="https://img.shields.io/badge/OSINT-FF073A?style=for-the-badge&logo=hackthebox&color=000000" alt="OSINT" />
+<img src="https://img.shields.io/badge/Red_Team-FF073A?style=for-the-badge&logo=kalilinux&color=000000" alt="Red Team" />
+<img src="https://img.shields.io/badge/Blue_Team-FF073A?style=for-the-badge&logo=wireshark&color=000000" alt="Blue Team" />
+<img src="https://img.shields.io/badge/Bug_Bounty-FF073A?style=for-the-badge&logo=bugcrowd&color=000000" alt="Bug Bounty" />
+<img src="https://img.shields.io/badge/Penetration_Testing-FF073A?style=for-the-badge&logo=kalilinux&color=000000" alt="Pentesting" />
   </div>
 </div>
 
