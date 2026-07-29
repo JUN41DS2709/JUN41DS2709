@@ -88,11 +88,13 @@ I'm  `JUN41D` — a final-year engineering student who'd rather be breaking into
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JUN41DS2709&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JUN41DS2709&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=JUN41DS2709&theme=tokyonight&hide_border=true" />
+</p>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=JUN41DS2709&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUN41DS2709&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -100,7 +102,7 @@ I'm  `JUN41D` — a final-year engineering student who'd rather be breaking into
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JUN41DS2709&theme=tokyo-night&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JUN41DS2709&theme=tokyo-night&hide_border=true" />
 </p>
 <br><br>
 
