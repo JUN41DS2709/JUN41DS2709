@@ -88,9 +88,9 @@ I'm  `JUN41D` — a final-year engineering student who'd rather be breaking into
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JUN41DS2709&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JUN41DS2709&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=JUN41DS2709&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=JUN41DS2709&theme=dracula&hide_border=true"/>
 
 </p>
 
@@ -99,7 +99,7 @@ I'm  `JUN41D` — a final-year engineering student who'd rather be breaking into
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JUN41DS2709&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JUN41DS2709&theme=dracula&hide_border=true"/>
 </p>
 <br><br>
 
