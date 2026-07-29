@@ -85,14 +85,23 @@ I'm  `JUN41D` — a final-year engineering student who'd rather be breaking into
 ---
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+## 📊 GitHub Statistics
 
-<!-- Replace GITHUB_USERNAME below with your actual GitHub username -->
-  [![JUN41D's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUN41DS2709&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=FF073A&icon_color=FF073A&text_color=ffffff&custom_title=%20)](https://github.com/JUN41DS2709/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=JUN41DS2709&theme=dark&card_width=450&bg_color=00000000&hide_border=true&ring=FF073A&fire=FF073A&currStreakLabel=FF073A)](https://git.io/streak-stats)
- <p align="left"><a href="https://github.com/JUN41DS2709/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUN41DS2709&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&title_color=FF073A&text_color=ffffff" width="450" /></a></p>
+<p align="center">
 
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JUN41DS2709&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=JUN41DS2709&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JUN41DS2709&theme=tokyo-night&hide_border=true"/>
+</p>
 <br><br>
 
 <h2 id="connect" align=''> Connect With Me 🔗</h2>
