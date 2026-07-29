@@ -4,48 +4,33 @@
 </p>
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF073A&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+JUN41D+<3;CCybersecurity+Practitioner;Hacker;Security+Researcher;Pentester;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF073A&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello,+Friend.;JUN41D+here+<3;CCybersecurity+Practitioner;Hacker;Security+Researcher;Pentester;Purple+Teamer" alt="Title"></img>
   </a>
 </div>
 
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
-## Hey there !!
+## Hello, friend.
 
-I'm  `JUN41D` — a final-year engineering student who'd rather be breaking into systems (with permission) than memorizing them out of a textbook. My world runs on offensive security: poking at web apps, chasing bugs for bounty, and slowly turning curiosity into a career in penetration testing. Every lab broken, every writeup read, and every box rooted is one step closer to the security professional I'm building myself into.
+Driven by curiosity and a passion for cybersecurity, this GitHub serves as a journal of continuous learning. From Purple Teaming and web application security to home labs, CTFs, and security research, every repository represents another lesson learned and another skill developed..
 
 <details>
   <summary>More about me</summary>
 
-- 🎓 Final-Year Engineering Student, chasing a career in offensive security
-- 🛡️ Aspiring Penetration Tester — breaking things to learn how to defend them
-- 🌐 Deep diving into Web App Security & Bug Bounty Hunting
-- 🐧 Sharpening Linux, Networking & Python — one terminal command at a time
-- 🧪 Building Home Labs & Cybersecurity Projects to learn by doing, not just reading
+- 🟣 Learning to think like an attacker and respond like a defender
+- 🌐 Exploring Web Application Security & Purple Team methodologies
+- 🧪 Turning curiosity into hands-on experience through labs and projects
+- 🐧 Living in the terminal—Linux, networking, Python, and automation
+- 📖 Documenting the journey, because today's notes become tomorrow's experience
+
+</details>
 
 </details>
 <br>
 
 ---
 
-<h2 id="present_status"> 🎯 Present Status </h3>
-
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
-❱ Deep in the trenches with Networking, Security Fundamentals, Linux & Python
-
-❱ Spinning up home labs to turn theory into hands-on offensive security practice
-
-❱ Logging every lesson learned — my GitHub doubles as a learning journal
-
-❱ Exploring the world of Web App Security & Bug Bounty Hunting
-
-❱ Grinding toward one goal: landing my first role in Cybersecurity
-
-`Updating:`  Journey to Offensive Security 🚀
-
----
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
